@@ -20,6 +20,7 @@
   Sou um desenvolvedor frontend apaixonado por tecnologia e inovação. Tenho experiência com HTML, CSS, JavaScript, React, Java, Spring Boot e MySQL. Busco sempre aprender mais e contribuir para projetos que impactam a comunidade tecnológica. 💻
 </p>
 
+<h2 align="center" style="font-family: 'Poppins', sans-serif;">Technology Stack</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
