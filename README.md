@@ -1,63 +1,28 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-</head>
+<h1 align="center">Hi 👋, I'm Vitor Aguiar</h1>
+<h3 align="center">A passionate frontend developer from brazil</h3>
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif;">
-  Hi, I'm Vitor Aguiar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitoraguiiar&label=Profile%20views&color=0e75b6&style=flat" alt="vitoraguiiar" /> </p>
 
-<h3 align="center" style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Endividado+com+caf%C3%A9..." alt="Typing SVG" />
-  </a>
-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoraguiiar" alt="vitoraguiiar" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/vitinho1207" target="blank"><img src="https://img.shields.io/twitter/follow/vitinho1207?logo=twitter&style=for-the-badge" alt="vitinho1207" /></a> </p>
 
-<p align="center">
-  <img src="assets/deo182h-4d8f64bf-0b0c-4f9b-8d13-a57c8d144ce1.gif" style="border-radius: 15px;" alt="Banner" width="750px">
+- 📫 How to reach me **vitorhugoaguiar07@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vitinho1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitinho1207" height="30" width="40" /></a>
+<a href="https://fb.com/vitor aguiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vitor aguiar" height="30" width="40" /></a>
+<a href="https://instagram.com/_.vitinho07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vitinho07" height="30" width="40" /></a>
+<a href="https://discord.gg/vitinho7868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vitinho7868" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nightbop9&label=Profile%20views&color=0e75b6&style=flat" alt="seu-usuario" />
-  <a href="https://github.com/nightbop9=repositories"><img alt="GitHub Repos" src="https://badges.pufler.dev/repos/seu-usuario" /></a>
-  <img src="https://badges.pufler.dev/commits/monthly/nightbop9" alt="Commits per Month"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p style="font-family: 'Poppins', sans-serif;" align="center">
-  Sou um estudante iniciante da área de Tecnologia da Informação, com um foco especial no desenvolvimento de habilidades em linguagens como HTML, CSS, JavaScript, Java, Spring Boot, e MySQL. Tenho grande interesse em me aprofundar no campo, buscando sempre aprender e aplicar novos conhecimentos em projetos práticos. Meu objetivo é crescer profissionalmente, colaborando com a comunidade e contribuindo com códigos de qualidade nas plataformas de desenvolvimento, como o GitHub. 💻
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoraguiiar&show_icons=true&locale=en&layout=compact" alt="vitoraguiiar" /></p>
 
-<h2 align="center"  style="font-family: 'Poppins', sans-serif;">Technology Stack</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoraguiiar&show_icons=true&locale=en" alt="vitoraguiiar" /></p>
 
-<p align="center">
-  <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-    <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
-  </p>
-  
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoraguiiar&" alt="vitoraguiiar" /></p>
 
-<h2 align="center"  style="font-family: 'Poppins', sans-serif;">My GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightbop9&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightbop9&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<h2 align="center"  style="font-family: 'Poppins', sans-serif;">GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nightbop9&theme=radical" alt="GitHub Streak" />
-</p>
-
-<h2 align="center"  style="font-family: 'Poppins', sans-serif;">Connect with me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/claudemir-teixeira-9ab952305/?trk=opento_sprofile_topcard"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="teixeiravitorinoc8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
