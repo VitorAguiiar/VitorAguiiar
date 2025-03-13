@@ -8,7 +8,7 @@
 
 <h3 align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Frontend+Developer+from+Brazil" alt="Typing SVG" />
+    <img src="https://images.hdqwalls.com/download/synthwave-electro-4k-co-1908x1074.jpg" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -20,7 +20,6 @@
   Sou um desenvolvedor frontend apaixonado por tecnologia e inovação. Tenho experiência com HTML, CSS, JavaScript, React, Java, Spring Boot e MySQL. Busco sempre aprender mais e contribuir para projetos que impactam a comunidade tecnológica. 💻
 </p>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">Technology Stack</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
