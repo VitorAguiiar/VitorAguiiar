@@ -8,7 +8,7 @@
 
 <h3 align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://images.hdqwalls.com/download/synthwave-electro-4k-co-1908x1074.jpg/font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Frontend+Developer+from+Brazil" alt="Typing SVG" />
+    <img src="https://images.hdqwalls.com/download/synthwave-electro-4k-co-1908x1074.jpg" alt="Typing SVG" />
   </a>
 </h3>
 
