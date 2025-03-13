@@ -3,12 +3,12 @@
 </head>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">
-  Hi, I'm Vitor Aguiar <img src="https://images.hdqwalls.com/download/synthwave-electro-4k-co-1908x1074.jpg" width="30px">
+  Hi, I'm Vitor Aguiar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <h3 align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Frontend+Developer+from+Brazil" alt="Typing SVG" />
+    <img src="https://images.hdqwalls.com/download/synthwave-electro-4k-co-1908x1074.jpg/font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Frontend+Developer+from+Brazil" alt="Typing SVG" />
   </a>
 </h3>
 
