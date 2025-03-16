@@ -5,10 +5,10 @@
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">
   Hi, I'm Vitor Aguiar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Endividado+com+caf%C3%A9..."/>
-</h2>  
+
 <h3 align="center" style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Endividado+com+caf%C3%A9..."/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" alt="Typing SVG" />
   </a>
