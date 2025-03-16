@@ -3,7 +3,7 @@
 </head>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">
-  Hi, I'm Vitor Aguiar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi, I'm Vitor Aguiar <img src="https://media4.giphy.com/media/kCFU2Qf3LqubjKLef7/giphy.gif?cid=6c09b952oo8a5yxpbwbitf3uuj430pt3357lmrsw22qp8bz0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30px">
 </h1>
 
 <h3 align="center" style="text-align: center;">
