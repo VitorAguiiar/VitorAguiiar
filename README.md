@@ -41,11 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiiar&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">GitHub Streak</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoraguiiar&theme=radical" alt="GitHub Streak" />
-</p>
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Connect with me</h2>
 
