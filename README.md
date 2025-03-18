@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Endividado+com+caf%C3%A9..."/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" alt="Typing SVG" />
+    <img src="https://pin.it/5YM5pix7R" alt="Typing SVG" />
   </a>
 </h3>
 
