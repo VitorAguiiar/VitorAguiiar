@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Em+Dívida+com+caf%C3%A9+e+commits..."/>
 
   <a href="https://git.io/typing-svg">
-    <img <iframe src="https://assets.pinterest.com/ext/embed.html?id=907123549924089536" height="295" width="345" frameborder="0" scrolling="no" </iframe> alt="Typing SVG"/>
+    <iframe src="https://assets.pinterest.com/ext/embed.html?id=25825397858982562" height="330" width="345" frameborder="0" scrolling="no" ></iframe>
   </a>
 </h3>
 
