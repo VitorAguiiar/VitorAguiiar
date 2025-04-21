@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Em+Dívida+com+caf%C3%A9+e+commits..."/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://i.pinimg.com/originals/1a/17/11/1a17113357e09775f3855f982be25a50.gif" alt='Vitor Aguiar' />
+    <img src="https://i.pinimg.com/originals/1a/17/11/1a17113357e09775f3855f982be25a50.gif" width='100%' alt='Vitor Aguiar' />
   </a>
 </h3>
 
