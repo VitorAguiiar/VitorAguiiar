@@ -34,7 +34,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 </p>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">My GitHub Stats</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif;" margin-top='40px'>My GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/vitoraguiiar">
