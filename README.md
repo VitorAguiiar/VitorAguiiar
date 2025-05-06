@@ -41,7 +41,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=vitoraguiiar&show_icons=true&theme=radical" 
       alt="GitHub Stats" 
-      width="400"
+      width="420"
     />
   </a>
   <a href="https://github.com/vitoraguiiar">
