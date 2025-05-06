@@ -42,6 +42,7 @@
       src="https://github-readme-stats.vercel.app/api?username=vitoraguiiar&show_icons=true&theme=radical" 
       alt="GitHub Stats" 
       width="420"
+      height='100%'
     />
   </a>
   <a href="https://github.com/vitoraguiiar">
@@ -49,6 +50,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiiar&layout=compact&theme=radical" 
       alt="Top Languages" 
       width="420"
+      height='100%'
     />
   </a>
 </p>
