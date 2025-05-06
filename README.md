@@ -36,7 +36,7 @@
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;" margin-top='40px'>My GitHub Stats</h2>
 
-<p align="center">
+<p align="center" margin-top='40px'>
   <a href="https://github.com/vitoraguiiar">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=vitoraguiiar&show_icons=true&theme=radical" 
