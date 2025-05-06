@@ -36,7 +36,7 @@
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">My GitHub Stats</h2>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=vitoraguiiar&show_icons=true&theme=radical" alt="GitHub Stats" width='50%' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiiar&layout=compact&theme=radical" alt="Top Languages" width='50%'/>
 </div>
