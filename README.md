@@ -50,7 +50,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiiar&layout=compact&theme=radical" 
       alt="Top Languages" 
       width="420"
-      height='80%'
+      height='50%'
     />
   </a>
 </p>
