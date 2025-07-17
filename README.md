@@ -19,7 +19,7 @@
 </p>
 
 <p style="font-family: 'Poppins', sans-serif;" align="center">
-  Sou um desenvolvedor frontend apaixonado por tecnologia e inovação. Tenho experiência com HTML, CSS, JavaScript, React, Java, Spring Boot e MySQL. Busco sempre aprender mais e contribuir para projetos que impactam a comunidade tecnológica. 💻
+  Sou um desenvolvedor frontend apaixonado por tecnologia e inovação. Tenho experiência com HTML, CSS, JavaScript, React, Java, Spring Boot e MySQL. Busco sempre aprender mais e contribuir para projetos que impactam a comunidade tecnológica. 
 </p>
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Technology Stack</h2>
